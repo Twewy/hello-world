@@ -1,2 +1,4 @@
 git checkout -b "newbranch" //sets up local branch after clone
 git push -u origin "newbranch" // creates and pushes the branch to the remote repo
+
+git push// once the branch is pushed to the remote repo, this should work
